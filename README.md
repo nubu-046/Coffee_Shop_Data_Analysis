@@ -18,8 +18,8 @@ This project showcases a comprehensive data analysis and visualization of a coff
   -Filter options by Item, Order Type, Payment Method, and Month
 
 ## Power BI Dashboard Preview
--<a href="https://github.com/nubu-046/Coffee_Shop_Data_Analysis/blob/main/screenshots/Screenshot%202025-04-06%20231557.png">Home Page</a>
--<a href="https://github.com/nubu-046/Coffee_Shop_Data_Analysis/blob/main/screenshots/Screenshot%202025-04-06%20231538.png">Home Page</a>
+- <a href="https://github.com/nubu-046/Coffee_Shop_Data_Analysis/blob/main/screenshots/Screenshot%202025-04-06%20231557.png">Home Page</a>
+- <a href="https://github.com/nubu-046/Coffee_Shop_Data_Analysis/blob/main/screenshots/Screenshot%202025-04-06%20231538.png">Charts Page</a>
 
 
 ## Key Insights
