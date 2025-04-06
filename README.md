@@ -9,13 +9,13 @@ This project showcases a comprehensive data analysis and visualization of a coff
 ## Project Highlights
 -Cleaned raw transaction data using pandas: handled missing values, inconsistent entries, and outliers.
 -Engineered new features such as:
---Profit = 12% of Total Spent
---Categorized customers by Age Group
---Created a visual summary using Power BI Dashboard including:
---Sales by Item
---Monthly Trends (Orders, Revenue)
---Profit Breakdown
---Filter options by Item, Order Type, Payment Method, and Month
+-Profit = 12% of Total Spent
+-Categorized customers by Age Group
+-Created a visual summary using Power BI Dashboard including:
+-Sales by Item
+-Monthly Trends (Orders, Revenue)
+-Profit Breakdown
+-Filter options by Item, Order Type, Payment Method, and Month
 
 ##Power BI Dashboard Preview
 -<a href="https://github.com/nubu-046/Coffee_Shop_Data_Analysis/blob/main/screenshots/Screenshot%202025-04-06%20231557.png">Home Page</a>
